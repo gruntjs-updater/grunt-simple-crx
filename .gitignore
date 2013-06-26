@@ -1,0 +1,7 @@
+*.swp
+*.*~
+
+node_modules/
+tests/compiled.js
+
+.DS_Store

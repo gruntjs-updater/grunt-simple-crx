@@ -1,0 +1,39 @@
+{
+  "name": "grunt-simple-crx",
+  "description": "Takes a zip file and turns it into a CRX",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tombooth/grunt-simple-crx",
+  "author": {
+    "name": "Tom Booth",
+    "email": "tombooth@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tombooth/grunt-simple-crx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tombooth/grunt-simple-crx/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tombooth/grunt-simple-crx/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
